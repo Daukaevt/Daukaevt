@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daukaevt (Timur)
 - 👀 I’m interested in offer.
-- 🌱 I’m currently learning Kotlin, SQLite
+- 🌱 I’m currently learning Kotlin, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: +79674657600 or mupbam1@gmail.com
 
